@@ -4,8 +4,11 @@
 # USAGE
 
 $ javac Set_up_CD_ROM.java
+
 $ java Set_up_CD_ROM
+
 $ javac Seach_from_CD_ROM.java
+
 $ java Seach_from_CD_ROM <THE WORD YOU WANT TO SEARCH>
 
 
