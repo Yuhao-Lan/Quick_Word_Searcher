@@ -11,4 +11,24 @@ $ javac Seach_from_CD_ROM.java
 
 $ java Seach_from_CD_ROM <THE WORD YOU WANT TO SEARCH>
 
+# EXAMPLE OUTPUT
 
+$ java Search_from_CD_ROM my
+
+==The result of checking words in the dictionary: true
+
+$ java Search_from_CD_ROM kkkkk
+
+==The result of checking words in the dictionary: false
+
+$ java Search_from_CD_ROM help
+
+==The result of checking words in the dictionary: true
+
+$ java Search_from_CD_ROM tttt
+
+==The result of checking words in the dictionary: false
+
+$ java Search_from_CD_ROM dictionary
+
+==The result of checking words in the dictionary: true
